@@ -18,8 +18,4 @@ This is a simple Python program that functions as an alarm timer. Users can set 
 
 ## How to Use
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/python-alarm-timer.git
-   cd python-alarm-timer
+1. Run the code in your python IDE
